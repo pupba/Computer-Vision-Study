@@ -6,11 +6,12 @@
 
 ### 차례
 - ch01 : OpenCV 기본
-- ch02 : 그리기
-- ch03 : 문자열 삽입 및 유용한 기능
-- ch04 : 영상의 밝기 제어
-- ch05 : 필터링
-- ch06 : 영상의 기하학적 변환
-- ch07 : 에지 검출
-- ch08 : 컬러 영상 처리
-- ch09 : 이진화와 모폴로지
+- ch02 : 그리기(Drawing)
+- ch03 : 문자열 삽입 및 유용한 기능(Input Text and Useful Features)
+- ch04 : 영상의 밝기 제어(Control the brightness of the image)
+- ch05 : 필터링(Filtering)
+- ch06 : 영상의 기하학적 변환(Geometric Transformation of Images)
+- ch07 : 에지 검출(Edge Detection)
+- ch08 : 컬러 영상 처리(Color Image Processing)
+- ch09 : 이진화와 모폴로지(Binaryization and Morphology)
+- ch10 : 레이블링과 외각선 검출(Labeling and External Line Detection)
