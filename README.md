@@ -15,3 +15,4 @@
 - ch08 : 컬러 영상 처리(Color Image Processing)
 - ch09 : 이진화와 모폴로지(Binaryization and Morphology)
 - ch10 : 레이블링과 외각선 검출(Labeling and External Line Detection)
+- ch11 : 객체 검출과 응용(Object Detection and Application)
