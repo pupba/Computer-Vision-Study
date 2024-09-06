@@ -16,3 +16,4 @@
 - ch09 : 이진화와 모폴로지(Binaryization and Morphology)
 - ch10 : 레이블링과 외각선 검출(Labeling and External Line Detection)
 - ch11 : 객체 검출과 응용(Object Detection and Application)
+- ch12 : 지역 특징점 검출과 매칭(Regional feature detection and matching)
