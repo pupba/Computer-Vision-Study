@@ -20,3 +20,4 @@
 - ch13 : PIL(Python Image Library)
 - ch14 : IoU(Intersection over Union)
 - ch15 : Depth
+- ch16 : Segmentation
