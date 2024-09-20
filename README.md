@@ -21,3 +21,4 @@
 - ch14 : IoU(Intersection over Union)
 - ch15 : Depth
 - ch16 : Segmentation
+- ch17 : Skeletonization
