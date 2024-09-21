@@ -22,3 +22,4 @@
 - ch15 : Depth
 - ch16 : Segmentation
 - ch17 : Skeletonization
+- ch18 : 이미지 유사도(Image Similarity)
